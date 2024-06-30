@@ -1,0 +1,18 @@
+{
+  "name": "invoice-generator",
+  "version": "1.0.0",
+  "description": "Fun-invoice-generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "netlify dev",
+    "build": "netlify build",
+    "deploy": "netlify deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^2.8.0",
+    "pdf-lib": "^1.17.1"
+  }
+}
