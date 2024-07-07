@@ -11,7 +11,7 @@ alwasy look professional.
 - Barcode generation for invoices.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/odiedo/invoice-generator.git
+1. Clone the repository: git clone https://github.com/odiedo/invoice-generator-net.git
 2. Navigate to the project directory: cd invoice-generator
 3. Open "index.html" in your browser to start using the invoice generator.
 
