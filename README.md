@@ -1,5 +1,5 @@
 # invoice-generator-net
-This is a simple and efficient tool for generating an online and offline invoices for users. This project is optimized for print and PDF export, ensuring your invoices
+This is a simple and efficient tool for generating an online and offline invoices for users. This project is optimized for print and PDF export, ensuring your invoices. You can check the invoice generator in action https://finesseinvoice.netlify.app/
 alwasy look professional.
 
 ## Features
