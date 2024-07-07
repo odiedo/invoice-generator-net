@@ -1,5 +1,4 @@
 # Invoice-generator-net
-
 This is a simple and efficient tool for generating an online and offline invoices for users. This project is optimized for print and PDF export, ensuring your invoices alwasy look professional. You can check the invoice generator in action https://finesseinvoice.netlify.app/ 
 
 ## Features
@@ -21,6 +20,7 @@ This is a simple and efficient tool for generating an online and offline invoice
 3. Add items to the invoice by clicking "Add Another Item" and entering the item details.
 4. The invoice will update automatically as you type.
 5. Once you are satisfied with the invoice, click the "Print Invoice" button to print or save it as a PDF.
+![image](https://github.com/odiedo/invoice-generator-net/assets/38892005/5ae2fd54-b5c3-4043-b044-60a06d08321c)
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
