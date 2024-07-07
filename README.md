@@ -22,3 +22,11 @@ alwasy look professional.
 4. The invoice will update automatically as you type.
 5. Once you are satisfied with the invoice, click the "Print Invoice" button to print or save it as a PDF.
 
+## Contributing
+Contributions are welcome! Please follow these steps to contribute:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes.
+4. Commit your changes with a descriptive message.
+5. Push your changes to your forked repository.
+6. Create a pull request with a detailed description of your changes.
